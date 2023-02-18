@@ -75,5 +75,5 @@ generalization performance than each classifier alone. (Raschka, 2017).
 Using CIC-IDS 2018 dataset in Colab, getting high ram and crashing the terminal when executing two 
 models in one notebook. In that case using same created models for ensemble learning.
 
-##Conclusion 
+## Conclusion 
 Using CIC-IDS 2018 Dataset created three problems and made suitable models for each problem. For the first problem, There were created two models but suitable model in Decision Tree model. For the clusteringproblem (Problem 2) used the hierarchical clustering method because of CIC-IDS 2018 dataset is large dataset and it gives the identify clusters. Linear Regression models also show the good performance on the problem 3. After created the classification models for the problem 1, used the same Decision Tree model and SVM model for ensemble learning. It gives the good model performance that means these models can used it for finding threat on Network by pattern and finding the bandwidth of the network. 
