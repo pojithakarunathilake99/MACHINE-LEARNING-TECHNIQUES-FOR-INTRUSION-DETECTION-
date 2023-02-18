@@ -1,6 +1,8 @@
 # Machine Learning Models for CIC-IDS-2018
 ## Dataset Source
 https://www.kaggle.com/datasets/solarmainframe/ids-intrusion-csv
+## Full Technical Report
+https://www.researchgate.net/publication/368608479_MACHINE_LEARNING_TECHNIQUES_FOR_INTRUSION_DETECTION_AND_BANDWIDTH_IN_NETWORK_SYSTEM_USIN_CIC-IDS-2018
 ## Introduction
 Machine learning is an artificial intelligence subfield that includes teaching machines to spot patterns in data and make judgements based on that data. It has several applications, including cybersecurity. Machine learning algorithms in cybersecurity can detect and prevent cyber risks like malware or phishing attempts.There are several ways in which machine learning can be used to improve cybersecurity:
 1. Anomaly detection: Machine learning algorithms can be trained to recognize normal behavior 
